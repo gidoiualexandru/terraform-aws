@@ -54,7 +54,7 @@ aws dynamodb create-table \
 1. Clone the repository:
 
 bash
-git clone https://github.com/example/terraform-aws-infra.git
+git clone
 cd terraform-aws-infra
 
 2. Initialize Terraform:
